@@ -9,7 +9,7 @@ Hakaton uchun
 
 <h4 ><a href="https://t.me/Javohir_R_04">Rashidov Javohir</a></h4>
 
-<h4 ><a href="https://t.me/Bobur_0118">Negmatov Bobur</a></h4>
+<h4 ><a href="https://t.me/Bobur_0118">Nematov Bobur</a></h4>
 
 # ReWaste - Chiqindilarni qayta ishlashga asoslangan tizim
 
