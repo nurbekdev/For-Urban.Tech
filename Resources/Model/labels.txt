@@ -1,0 +1,9 @@
+0 Metal idishlar
+1 Qog'ozlar
+2 Oyoq kiyim
+3 Ruchka
+4 Spirt idishi
+5 Batareya
+6 Sabzavot qoldiqlari
+7 Meva qoldiqlari
+
