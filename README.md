@@ -13,7 +13,9 @@ Hakaton uchun
 
 # ReWaste - Chiqindilarni qayta ishlashga asoslangan tizim
 
-https://user-images.githubusercontent.com/88614410/202716911-c7de47ac-7e99-4427-82a8-5232e4f0a876.mp4
+https://user-images.githubusercontent.com/88614410/202836058-390f7581-8c1a-4fbf-82d9-88dadc31a5d0.mp4
+
+https://user-images.githubusercontent.com/88614410/202836075-106c397a-e6ad-4ec1-bf0c-b33c5584c481.mp4
 
 
 
